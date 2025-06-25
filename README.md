@@ -15,9 +15,7 @@
 - [Deep Learning-пайплайн](#deep-learning-пайплайн)  
   - [Результаты](#результаты-deep-learning)  
 - [Использование в Google Colab](#использование-в-google-colab)  
-- [Лицензия](#лицензия)  
-- [Контакты](#контакты)
-
+- [Визуализации](#дешборд)
 ---
 
 ## Обзор
@@ -158,3 +156,6 @@ python -m src.data_preprocessing_dl/tokenize
 ```
 
 ---
+## Дешборд
+
+- [Дешборд с нашими результатами](https://walmartvisual-mfdejtf2dpfxhdjqppsipw.streamlit.app/)
